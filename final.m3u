@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="" group-title="Spain",Movistar Accion
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="" group-title="Spain",Movistar Comedia
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="" group-title="Spain",Movistar Drama
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69309.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="" group-title="Spain",Movistar Series
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69308.ts
